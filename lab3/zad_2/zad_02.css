@@ -1,0 +1,61 @@
+body {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  background-color: #ececec;
+}
+
+.content {
+  width: 400px;
+  margin: auto;
+}
+
+h2 {
+  color: #045137;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+}
+
+.contact {
+  box-shadow: 0px 0px 10px #a5a5a5;
+  margin-bottom: 1.5em;
+}
+
+.name {
+  background-color: #045137;
+  color: white;
+  display: block;
+  padding: 1em;
+  font-size: large;
+  font-weight: 700;
+  letter-spacing: 5px;
+}
+
+.info {
+  padding: 1em;
+  line-height: 1.5em;
+}
+
+.address > span {
+  color: #045137;
+  display: block;
+  text-align: right;
+  font-size: large;
+}
+
+.address > span + span {
+  font-size: 14px;
+  color: black;
+  margin-bottom: 1em;
+}
+
+.mail {
+  display: block;
+  font-style: italic;
+  text-transform: uppercase;
+  color: #045137;
+  font-weight: bold;
+}
+
+.phone {
+  font-size: 14px;
+}/*# sourceMappingURL=zad_02.css.map */

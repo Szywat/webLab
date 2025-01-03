@@ -1,0 +1,19 @@
+div.content > div:nth-child(2) {
+    color: blue;
+}
+
+div.content > div:nth-child(2) > div:first-child {
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+
+div.content > div:nth-child(2) > div:last-child > div:first-child {
+    text-transform: uppercase;
+    color: red;
+    line-height: 2em;
+}
+
+div.content > div:last-child > div:last-child > div:last-child {
+    text-decoration: underline;
+    font-style: italic;
+}
