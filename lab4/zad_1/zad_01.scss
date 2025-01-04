@@ -1,0 +1,22 @@
+div {
+    display: inline-block;
+}
+
+div.C {
+    border: 5px solid red;
+    width: 17em;
+    height: 3em;
+    background-color: yellow;
+}
+
+div.A {
+    position: relative;
+    left: 1em;
+    top: 0.5em;
+}
+
+div.B {
+    position: relative;
+    bottom: 0.5em;
+    left: 0.5em;
+}

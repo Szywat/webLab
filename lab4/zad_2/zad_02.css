@@ -1,0 +1,21 @@
+div.A {
+  position: absolute;
+  border: 3px solid blue;
+  background-color: #F2F0FE;
+  height: 9em;
+  width: 16em;
+  text-align: center;
+  right: 45%;
+  top: 35%;
+}
+
+div.B {
+  position: absolute;
+  border: 3px solid red;
+  background-color: #FAE3E3;
+  height: 9em;
+  width: 16em;
+  text-align: center;
+  left: 45%;
+  bottom: 40%;
+}/*# sourceMappingURL=zad_02.css.map */
