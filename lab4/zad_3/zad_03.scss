@@ -24,7 +24,14 @@ span.nav-item {
 }
 
 div#content {
+    margin: 4em auto auto auto;
+    width: 50%;
+    
 }
+
+// div.section {
+//     margin-left: 100px;
+// }
 
 div.section > h2 {
     font-weight: 900;
@@ -33,18 +40,56 @@ div.section > h2 {
 div.event {
     border: 2px solid #DBDBDB;
     border-radius: 20px;
-    width: 50%;
     padding: 1em;
-    margin: 1em;
+    margin-top: 1em;
 }
 
 div.title {
     font-size: large;
     font-weight: 700;
+    display: inline-block;
+    margin: 0 0 10px 0;
 }
 
 div.date {
-    display: inline;
-    text-align: right;
+    float: right;
+}
 
+button {
+    width: 5em;
+    height: 2em;
+    border-radius: 10px;
+}
+
+button.primary {
+    background-color: #2665C5;
+    color: white;
+    border: none;
+}
+
+button.secondary {
+    background-color: white;
+    border: 1px solid #2665C5;
+    color: #2665C5;
+}
+
+button.primary + button.secondary {
+    float: right;
+
+}
+
+div.info {
+    position: fixed;
+    padding: 1em;
+    width: 9.5em;
+    height: auto;
+    border: 2px solid yellow;
+    border-radius: 20px ;
+    background-color: #FAFAD6;
+    bottom: 1em;
+    right: 1em;
+}
+
+div.description {
+    margin: 10px 0 10px 0
 }
