@@ -1,0 +1,25 @@
+$colors: lightgray, gray, darkgray;
+
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
+
+#outer {
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
+
+@for $i from 1 through 3 {
+    .box:nth-child(#{$i}) {
+        background-color: nth($colors, $i);
+        width: 100px;
+        height: 100px;
+        color: white;
+        text-align: center;
+    }
+}

@@ -1,0 +1,75 @@
+body {
+  margin: auto;
+  border: 1vh solid gray;
+  height: 98vh;
+}
+
+.container {
+  display: flex;
+  font-size: xx-large;
+  flex-direction: column;
+  justify-content: flex-end;
+  color: white;
+  text-shadow: 1px 1px 1px black;
+  height: 100%;
+}
+
+.box.box-1 {
+  background-color: violet;
+  width: 100%;
+  text-align: center;
+}
+
+.box.box-2 {
+  background-color: wheat;
+  width: 100%;
+  text-align: center;
+}
+
+.box.box-3 {
+  background-color: whitesmoke;
+  width: 100%;
+  text-align: center;
+}
+
+.box.box-4 {
+  background-color: yellow;
+  width: 100%;
+  text-align: center;
+}
+
+.box.box-5 {
+  background-color: yellowgreen;
+  width: 100%;
+  text-align: center;
+}
+
+.box.box-6 {
+  background-color: turquoise;
+  width: 100%;
+  text-align: center;
+}
+
+.box.box-7 {
+  background-color: tomato;
+  width: 100%;
+  text-align: center;
+}
+
+.box.box-8 {
+  background-color: thistle;
+  width: 100%;
+  text-align: center;
+}
+
+.box.box-9 {
+  background-color: teal;
+  width: 100%;
+  text-align: center;
+}
+
+.box.box-10 {
+  background-color: tan;
+  width: 100%;
+  text-align: center;
+}/*# sourceMappingURL=zad_02.css.map */

@@ -1,0 +1,25 @@
+$colors: violet, wheat, whitesmoke, yellow, yellowgreen, turquoise, tomato, thistle, teal, tan;
+
+body {
+    margin: auto;
+    border: 1vh solid gray;
+    height: 98vh;
+}
+.container {
+    display: flex;
+    font-size: xx-large;
+    flex-direction: column;
+    justify-content: flex-end;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    height: 100%;
+}
+
+@for $i from 1 through length($colors) {
+    .box.box-#{$i} {
+        background-color: nth($colors, $i);
+        width: 100%;
+        text-align: center;
+    }
+}
+
