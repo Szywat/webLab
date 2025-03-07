@@ -1,0 +1,41 @@
+
+
+.container {
+    display: grid;
+    grid-template: repeat(6, 1fr) / repeat(5, 1fr);
+}
+
+
+
+@for $i from 1 through 30 {
+    .item.item#{$i} {
+        border: 1px solid black;
+        margin: 10px;
+        min-height: 50px;
+        display: flex;
+        justify-content: center;
+        font-weight: 700;
+        font-size: larger;
+        background-color: #ede7b1;
+    }
+}
+
+.item.item9 {
+    background-color: #de9a7f;
+    grid-area: 2 / 4 / 2 / span 2
+}
+
+.item.item11 {
+    background-color: #e6e6f8;
+    grid-area: 3 / 2 / span 4 / 2;
+}
+
+.item.item16 {
+    background-color: #bceced;
+    grid-area: 4 / 3 / span 2 / span 2;
+}
+
+.item.item29 { 
+    background-color: #cdb591;
+    grid-area: 8 / 1 / 8 / span 4;
+}

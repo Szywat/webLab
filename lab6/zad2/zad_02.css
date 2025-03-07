@@ -1,0 +1,354 @@
+.container {
+  display: grid;
+  grid-template: repeat(6, 1fr)/repeat(5, 1fr);
+}
+
+.item.item1 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item2 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item3 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item4 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item5 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item6 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item7 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item8 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item9 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item10 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item11 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item12 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item13 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item14 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item15 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item16 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item17 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item18 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item19 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item20 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item21 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item22 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item23 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item24 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item25 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item26 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item27 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item28 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item29 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item30 {
+  border: 1px solid black;
+  margin: 10px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: larger;
+  background-color: #ede7b1;
+}
+
+.item.item9 {
+  background-color: #de9a7f;
+  grid-area: 2/4/2/span 2;
+}
+
+.item.item11 {
+  background-color: #e6e6f8;
+  grid-area: 3/2/span 4/2;
+}
+
+.item.item16 {
+  background-color: #bceced;
+  grid-area: 4/3/span 2/span 2;
+}
+
+.item.item29 {
+  background-color: #cdb591;
+  grid-area: 8/1/8/span 4;
+}/*# sourceMappingURL=zad_02.css.map */

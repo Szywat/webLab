@@ -1,0 +1,23 @@
+.content {
+  display: grid;
+  grid-template: repeat(5, 1fr)/repeat(5, 1fr);
+  width: 500px;
+  height: 500px;
+  border: 2px solid black;
+}
+
+.color-plane {
+  border: 2px solid black;
+  padding-top: 5px;
+  padding-left: 5px;
+  font-size: larger;
+  color: white;
+}
+
+.color-plane:nth-child(even) {
+  background-color: #d8b98d;
+}
+
+.color-plane:nth-child(odd) {
+  background-color: #fbe4ba;
+}/*# sourceMappingURL=zad_01.css.map */
